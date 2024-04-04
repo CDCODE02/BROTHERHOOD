@@ -579,7 +579,7 @@ p {
 }
 
 .gobal-grid-img.small {
-  width: 90%;
+  width: 100%;
   margin-left: 35px;
 }
 
@@ -589,8 +589,8 @@ p {
 }
 
 .gobal-grid-img.nagative-margin {
-  width: 70%;
-  margin-left: -75px;
+  width: 95%;
+  margin-left: -100px;
 }
 
 .gobal-grid-img.big-head {
@@ -1968,8 +1968,8 @@ p {
   }
 
   .gobal-grid-img.nagative-margin {
-    width: 80%;
-    margin-left: -55px;
+    width: 95%;
+    margin-left: -30px;
     margin-right: auto;
   }
 
