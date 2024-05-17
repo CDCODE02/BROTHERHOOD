@@ -379,7 +379,7 @@ p {
   padding: 0.625rem 1.25rem;
   display: flex;
   overflow: hidden;
-  box-shadow: 0 2px 0 0.0625rem rgba(60, 132, 48, 0.2);
+  box-shadow: 0 2px 0 0.0625rem rgba(0, 81, 255);
 }
 
 .gobal-container {
@@ -524,7 +524,7 @@ p {
 }
 
 .header-title-2.white {
-  color: #204712;
+  color: #0051ff;
 }
 
 .header-title-2.max {
