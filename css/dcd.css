@@ -23,7 +23,7 @@ h1 {
 }
 
 h2 {
-  color: #008d01;
+  color: #0051ff;
   margin-top: 0;
   margin-bottom: 0.625rem;
   font-size: 2.5rem;
@@ -32,7 +32,7 @@ h2 {
 }
 
 h3 {
-  color: #008d01;
+  color: #0051ff;
   margin-top: 0;
   margin-bottom: 0.5rem;
   font-size: 1.1875rem;
@@ -84,7 +84,7 @@ p {
   color: #fff;
   text-align: center;
   letter-spacing: -0.02em;
-  background-color: #008d01;
+  background-color: #0051ff;
   border: 0.125rem solid rgba(255, 255, 255, 0.98);
   border-radius: 8rem;
   justify-content: center;
@@ -99,7 +99,7 @@ p {
 }
 
 .navigation-secondary:hover {
-  color: #008d01;
+  color: #0051ff;
   background-color: #fff;
   border-color: #fff;
 }
@@ -135,7 +135,7 @@ p {
   width: 13.75rem;
   color: #fff;
   text-transform: uppercase;
-  background-color: #008d01;
+  background-color: #0051ff;
   border-radius: 6.25rem;
   justify-content: center;
   align-items: center;
@@ -149,9 +149,9 @@ p {
 }
 
 .button-primary:hover {
-  color: #008d01;
+  color: #0051ff;
   background-color: #dff4db;
-  box-shadow: inset 0 0 0 2px #008d01;
+  box-shadow: inset 0 0 0 2px #0051ff;
 }
 
 .button-primary.big-button {
@@ -164,7 +164,7 @@ p {
 }
 
 .header-logo-card {
-  color: #008D01#;
+  color: #0051ff#;
   text-align: center;
   align-items: center;
   text-decoration: none;
@@ -279,12 +279,12 @@ p {
 }
 
 .navigation-link:hover {
-  color: #008d01;
+  color: #0051ff;
   border: 0.0625rem solid #e6e6e6;
 }
 
 .navigation-link.w--current {
-  color: #008d01;
+  color: #0051ff;
 }
 
 .header-card {
@@ -309,7 +309,7 @@ p {
 }
 
 .header-icon {
-  color: #008d01;
+  color: #0051ff;
   justify-content: center;
   align-items: center;
   display: flex;
@@ -329,7 +329,7 @@ p {
 }
 
 .hero-heading {
-  color: #008d01;
+  color: #0051ff;
   margin-top: 0;
   margin-bottom: 1.5rem;
   font-size: 3.4375rem;
@@ -344,10 +344,10 @@ p {
 .button-secondary {
   width: 13.75rem;
   grid-column-gap: 0.5rem;
-  color: #008d01;
+  color: #0051ff;
   text-transform: uppercase;
   background-color: #dff4db;
-  border: 0.125rem solid #008d01;
+  border: 0.125rem solid #0051ff;
   border-radius: 6.25rem;
   justify-content: center;
   align-items: center;
@@ -362,7 +362,7 @@ p {
 
 .button-secondary:hover {
   color: #fff;
-  background-color: #008d01;
+  background-color: #0051ff;
 }
 
 .navigation-container {
@@ -442,7 +442,7 @@ p {
 }
 
 .socail-icons-texts {
-  color: #008d01;
+  color: #0051ff;
   font-weight: 600;
 }
 
@@ -456,12 +456,12 @@ p {
   margin-bottom: 0.625rem;
   padding: 1.25rem;
   display: flex;
-  box-shadow: 1px 1px #008d01;
+  box-shadow: 1px 1px #0051ff;
 }
 
 .logo-img-wrap:hover {
   background-color: rgba(0, 0, 0, 0);
-  box-shadow: 0 0 0 2px #008d01;
+  box-shadow: 0 0 0 2px #0051ff;
 }
 
 .logo-img-wrap.v1 {
@@ -477,7 +477,7 @@ p {
 }
 
 .section.background-color-orange {
-  background-color: #008d01;
+  background-color: #0051ff;
   padding-top: 5rem;
 }
 
@@ -487,7 +487,7 @@ p {
 }
 
 .section.background-shoft {
-  background-color: #008d01;
+  background-color: #0051ff;
   padding-top: 5rem;
 }
 
@@ -496,7 +496,7 @@ p {
 }
 
 .section.remove-button-padding.marginless {
-  background-color: #008d01;
+  background-color: #0051ff;
   padding-top: 1.875rem;
   padding-bottom: 2.5rem;
 }
@@ -609,7 +609,7 @@ p {
     225deg,
     rgba(255, 255, 255, 0),
     rgba(255, 255, 255, 0) 12%,
-    #008d01 46%
+    #0051ff 46%
   );
   margin-bottom: 2.5rem;
 }
@@ -634,7 +634,7 @@ p {
 
 .token-grid {
   grid-column-gap: 0rem;
-  border: 0.1875rem solid #008d01;
+  border: 0.1875rem solid #0051ff;
   border-radius: 0.625rem;
   grid-template-rows: auto;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -643,7 +643,7 @@ p {
 
 .token-info {
   text-align: center;
-  border-right: 0.1875rem solid #008d01;
+  border-right: 0.1875rem solid #0051ff;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -668,7 +668,7 @@ p {
   color: #fff;
   text-align: center;
   background-color: #33b048;
-  border-right: 0.1875rem #008d01;
+  border-right: 0.1875rem #0051ff;
   border-radius: 6.25rem;
   flex-direction: column;
   justify-content: center;
@@ -736,7 +736,7 @@ p {
 
 .features-cell:hover {
   transform: scale(1.03);
-  box-shadow: 0 0 0 2px #008d01, 0 0 40px rgba(60, 132, 48, 0.1);
+  box-shadow: 0 0 0 2px #0051ff, 0 0 40px rgba(60, 132, 48, 0.1);
 }
 
 .features-icon {
@@ -754,7 +754,7 @@ p {
 }
 
 .features-title {
-  color: #008d01;
+  color: #0051ff;
   text-align: center;
   margin-bottom: 0.9375rem;
   font-size: 1.75rem;
@@ -811,7 +811,7 @@ p {
 .road-cell:hover {
   background-color: rgba(255, 255, 255, 0.7);
   transform: scale(1.03);
-  box-shadow: 0 0 45px rgba(60, 132, 48, 0.15), inset 0 0 0 3px #008d01;
+  box-shadow: 0 0 45px rgba(60, 132, 48, 0.15), inset 0 0 0 3px #0051ff;
 }
 
 .road-item {
@@ -872,7 +872,7 @@ p {
 .arrow-line---brix {
   width: 0.6875rem;
   min-height: 0.125rem;
-  background-color: #008d01;
+  background-color: #0051ff;
   border-radius: 31.25rem;
   position: absolute;
 }
@@ -888,7 +888,7 @@ p {
 }
 
 .accordion-item-title---brix {
-  color: #008d01;
+  color: #0051ff;
   font-size: 1.125rem;
   font-weight: 600;
   line-height: 1.75rem;
@@ -916,7 +916,7 @@ p {
   z-index: 200;
   width: 1.125rem;
   height: 1.125rem;
-  color: #008d01;
+  color: #0051ff;
   justify-content: center;
   align-items: center;
   padding-bottom: 0.125rem;
@@ -949,7 +949,7 @@ p {
 
 .footer-link:hover {
   color: rgba(0, 0, 0, 0.85);
-  background-color: #008d01;
+  background-color: #0051ff;
 }
 
 .social-icon {
@@ -1031,7 +1031,7 @@ p {
 .all-rights-reserved {
   color: rgba(255, 255, 255, 0.7);
   text-align: center;
-  background-color: #008d01;
+  background-color: #0051ff;
   padding-top: 1rem;
   padding-bottom: 1rem;
   font-size: 1rem;
@@ -1057,7 +1057,7 @@ p {
   color: #fff;
   text-align: center;
   text-transform: uppercase;
-  background-color: #008d01;
+  background-color: #0051ff;
   border-radius: 6.25rem;
   justify-content: center;
   align-items: center;
@@ -1071,9 +1071,9 @@ p {
 }
 
 .button-primary-nav:hover {
-  color: #008d01;
+  color: #0051ff;
   background-color: #fff;
-  box-shadow: inset 0 0 0 2px #008d01;
+  box-shadow: inset 0 0 0 2px #0051ff;
 }
 
 .button-primary-nav.show {
@@ -1081,7 +1081,7 @@ p {
 }
 
 .head-3 {
-  color: #008d01;
+  color: #0051ff;
   margin-bottom: 0.25rem;
   font-size: 1.125rem;
 }
@@ -1169,7 +1169,7 @@ p {
   z-index: 200;
   width: 18px;
   height: 18px;
-  color: #008d01;
+  color: #0051ff;
   justify-content: center;
   align-items: center;
   padding-bottom: 2px;
@@ -1206,7 +1206,7 @@ p {
 .arrow-line---brix-2 {
   width: 11px;
   min-height: 2px;
-  background-color: #008d01;
+  background-color: #0051ff;
   border-radius: 500px;
   position: absolute;
 }
@@ -1242,7 +1242,7 @@ p {
 }
 
 .accordion-item-title---brix-2 {
-  color: #008d01;
+  color: #0051ff;
   font-size: 18px;
   font-weight: 600;
   line-height: 28px;
@@ -1260,7 +1260,7 @@ p {
 }
 
 .accordion-item---brix-2.accordion-1---brix {
-  color: #008d01;
+  color: #0051ff;
   background-color: rgba(255, 255, 255, 0.3);
   border: 2px solid rgba(0, 0, 0, 0);
   margin-bottom: 32px;
@@ -1270,7 +1270,7 @@ p {
 }
 
 .accordion-item---brix-2.accordion-1---brix:hover {
-  color: #008d01;
+  color: #0051ff;
   box-shadow: 0 14px 21px rgba(32, 71, 18, 0.07);
 }
 
@@ -1291,7 +1291,7 @@ p {
 }
 
 .hero-heading-2 {
-  color: #008d01;
+  color: #0051ff;
   margin-top: 0;
   margin-bottom: 1.5rem;
   font-size: 3.4375rem;
@@ -1311,7 +1311,7 @@ p {
   width: 13.75rem;
   color: #fff;
   text-transform: uppercase;
-  background-color: #008d01;
+  background-color: #0051ff;
   border-radius: 6.25rem;
   justify-content: center;
   align-items: center;
@@ -1325,16 +1325,16 @@ p {
 }
 
 .button-primary-2:hover {
-  color: #008d01;
+  color: #0051ff;
   background-color: #dff4db;
-  box-shadow: inset 0 0 0 2px #008d01;
+  box-shadow: inset 0 0 0 2px #0051ff;
 }
 
 .button-primary-2.big {
   width: 17rem;
   color: #fff;
   text-align: center;
-  background-color: #008d01;
+  background-color: #0051ff;
   font-size: 1.5rem;
 }
 
@@ -1393,7 +1393,7 @@ p {
   }
 
   .navigation-secondary:hover {
-    border-color: #008d01;
+    border-color: #0051ff;
   }
 
   .logo-link {
@@ -1456,13 +1456,13 @@ p {
   }
 
   .navigation-link:hover {
-    color: #008d01;
+    color: #0051ff;
     border-style: none;
     border-width: 0;
   }
 
   .menu-icon {
-    color: #008d01;
+    color: #0051ff;
   }
 
   .menu-icon:hover {
@@ -1581,7 +1581,7 @@ p {
   }
 
   .token-info {
-    border-bottom: 0.1875rem solid #008d01;
+    border-bottom: 0.1875rem solid #0051ff;
   }
 
   .token-info.last.remove {
@@ -1657,7 +1657,7 @@ p {
   .navmenubar {
     width: 1.5625rem;
     height: 0.1875rem;
-    background-color: #008d01;
+    background-color: #0051ff;
     margin-bottom: 0.25rem;
     padding-bottom: 0;
     padding-right: 0;
