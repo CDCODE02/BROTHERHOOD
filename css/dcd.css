@@ -264,7 +264,7 @@ p {
 }
 
 .navigation-link {
-  color: #204712;
+  color: #0051ff;
   letter-spacing: -0.01em;
   white-space: nowrap;
   background-color: rgba(0, 0, 0, 0);
@@ -531,7 +531,7 @@ p {
   max-width: 23.75rem;
 }
 #header-title-2max1 {
-  color: #204712;
+  color: #0051ff;
 }
 
 .paragraph-normal {
@@ -667,7 +667,7 @@ p {
   min-width: 10rem;
   color: #fff;
   text-align: center;
-  background-color: #33b048;
+  background-color: #0051ff;
   border-right: 0.1875rem #0051ff;
   border-radius: 6.25rem;
   flex-direction: column;
@@ -794,7 +794,7 @@ p {
   font-size: 0.9375rem;
   font-weight: 600;
   line-height: 1.5;
-  color: #008d10;
+  color: #0051ff;
 }
 
 .road-cell {
@@ -933,7 +933,7 @@ p {
 }
 
 .footer-link {
-  color: #204712;
+  color: #0051ff;
   letter-spacing: -0.01em;
   border: 0.0625rem solid rgba(0, 0, 0, 0);
   border-radius: 0.625rem;
@@ -1049,7 +1049,7 @@ p {
 }
 
 .black {
-  color: #204712;
+  color: #0051ff;
 }
 
 .button-primary-nav {
